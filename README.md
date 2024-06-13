@@ -1,1 +1,3 @@
-Programmers Level 1 Kakao Coding Test
+2024 카카오 테크 부트캠프 인공지능 과정
+
+코딩 테스트 통과를 위한 카카오 기출 공부
