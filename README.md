@@ -1,1 +1,1 @@
-Studying of Kakao Coding Test
+# Studying of Kakao Coding Test
